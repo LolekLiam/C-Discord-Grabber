@@ -1,0 +1,12 @@
+C:\Users\liams\Desktop\tokenstealermaker\tnv\bin\Debug\net472\TotallyNotVirus.exe.exe.config
+C:\Users\liams\Desktop\tokenstealermaker\tnv\bin\Debug\net472\TotallyNotVirus.exe.exe
+C:\Users\liams\Desktop\tokenstealermaker\tnv\bin\Debug\net472\TotallyNotVirus.exe.pdb
+C:\Users\liams\Desktop\tokenstealermaker\tnv\bin\Debug\net472\BouncyCastle.Crypto.dll
+C:\Users\liams\Desktop\tokenstealermaker\tnv\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\liams\Desktop\tokenstealermaker\tnv\obj\Debug\net472\TotallyNotVirus.csproj.AssemblyReference.cache
+C:\Users\liams\Desktop\tokenstealermaker\tnv\obj\Debug\net472\TotallyNotVirus.csproj.SuggestedBindingRedirects.cache
+C:\Users\liams\Desktop\tokenstealermaker\tnv\obj\Debug\net472\TotallyNotVirus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liams\Desktop\tokenstealermaker\tnv\obj\Debug\net472\TotallyNotVirus.csproj.CoreCompileInputs.cache
+C:\Users\liams\Desktop\tokenstealermaker\tnv\obj\Debug\net472\TotallyNotVirus.csproj.CopyComplete
+C:\Users\liams\Desktop\tokenstealermaker\tnv\obj\Debug\net472\TotallyNotVirus.exe.exe
+C:\Users\liams\Desktop\tokenstealermaker\tnv\obj\Debug\net472\TotallyNotVirus.exe.pdb
