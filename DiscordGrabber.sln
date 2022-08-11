@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TotallyNotVirus", "TotallyNotVirus.csproj", "{871377EA-6487-4268-B784-2C04600B0438}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiscordGrabber", "DiscordGrabber.csproj", "{871377EA-6487-4268-B784-2C04600B0438}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
